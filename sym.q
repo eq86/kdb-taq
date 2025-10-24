@@ -1,4 +1,4 @@
-// schema.q
+// schema.q aka sym.qS
 // Quote Table Schema
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
 // trade Table Schema
